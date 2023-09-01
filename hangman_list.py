@@ -1,0 +1,23 @@
+dico = {
+    "algorithme": "Une séquence d'étapes détaillées pour résoudre un problème ou accomplir une tâche spécifique.",
+    "programmation": "Le processus d'écriture d'instructions pour un ordinateur à l'aide d'un langage de programmation.",
+    "chiffrement": "Le processus de conversion de données en un code pour les protéger contre l'accès non autorisé.",
+    "reseau": "Un système d'ordinateurs et de périphériques interconnectés pouvant partager des ressources et des informations.",
+    "debogage": "Le processus de localisation et de correction d'erreurs dans un programme informatique.",
+    "pilote": "Un programme qui permet à un système d'exploitation de communiquer avec un matériel ou un périphérique spécifique.",
+    "bit": "L'unité de base de l'information en informatique, pouvant avoir les valeurs 0 ou 1.",
+    "octet": "Un groupe de 8 bits, utilisé pour représenter des données informatiques.",
+    "variable": "Un espace de stockage nommé utilisé pour stocker des données dans un programme.",
+    "boucle": "Une structure de contrôle qui permet à un programme de répéter une ou plusieurs instructions jusqu'à ce qu'une condition soit satisfaite.",
+    "fonction": "Un bloc de code réutilisable qui effectue une tâche spécifique lorsqu'il est appelé.",
+    "programmeur": "Une personne qui écrit du code informatique pour créer des logiciels et des applications.",
+    "cryptographie": "L'art de sécuriser des informations en les transformant en un code illisible sans la clé de déchiffrement appropriée.",
+    "ecran": "Un périphérique de sortie qui affiche des informations visuelles générées par un ordinateur.",
+    "souris": "Un dispositif d'entrée utilisé pour interagir avec l'interface utilisateur d'un ordinateur en déplaçant un pointeur à l'écran.",
+    "clavier": "Un périphérique d'entrée qui permet à l'utilisateur de saisir du texte et des commandes dans un ordinateur.",
+    "imprimante": "Un périphérique de sortie qui produit des copies physiques de documents ou d'images à partir d'un ordinateur.",
+    "processeur": "Le cerveau de l'ordinateur, responsable de l'exécution des instructions et du traitement des données.",
+    "routeur": "Un dispositif qui relie les réseaux informatiques et permet de diriger le trafic entre eux.",
+    "modem": "Un dispositif qui permet à un ordinateur de se connecter à Internet via une ligne téléphonique ou un câble.",
+    "webcam": "Un périphérique vidéo qui permet de capturer des images ou des vidéos pour les diffuser sur Internet ou les enregistrer."
+}
